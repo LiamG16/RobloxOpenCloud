@@ -1,1 +1,3 @@
-ABC123456
+local Codes = {
+	["ROBLOX"] = 100
+}
